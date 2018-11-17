@@ -29,7 +29,7 @@ public class classFOUR {
 		 
 		 WebElement userEmail;
 		 userEmail = driver.findElement(By.id("input-email"));
-		 userEmail.sendKeys("nomi.naseer@gmail.comaa");
+		 userEmail.sendKeys("nomi.naseer@gmail.comaaa");
 		 
 		 WebElement phoneNumber;
 		 phoneNumber = driver.findElement(By.id("input-telephone"));
